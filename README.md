@@ -12,3 +12,8 @@ A simple python implementation for downloading videos from [Vimeo](https://vimeo
 8. Make sure it ends with **/master.json?base64_init=1**
 9. Copy that url and use it as the value for **master_url**
 10. Run the script and the video would be downloaded!
+
+# To-Do
+- Implementation for giving a merged output
+- Implement quality selector
+- Make a cli tool
